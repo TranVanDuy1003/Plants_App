@@ -14,7 +14,7 @@ class Search extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
           Container(
-            width: MediaQuery.of(context).size.width * 0.75,
+            width: MediaQuery.of(context).size.width * 0.70,
             height: 50,
             child: TextField(
               textCapitalization: TextCapitalization.words,

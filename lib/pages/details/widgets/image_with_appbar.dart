@@ -18,7 +18,7 @@ class ImageWithAppbar extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: size.width,
-      height: size.height * 0.5,
+      height: size.height * 0.60,
       decoration: BoxDecoration(
         boxShadow: [
           BoxShadow(
